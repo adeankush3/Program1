@@ -1,4 +1,4 @@
-read -p "Enter a number" num
+read -p "Enter a number in :-" num
 fact=1
  
 for((i=2;i<=num;i++))
